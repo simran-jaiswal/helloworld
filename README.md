@@ -1,4 +1,7 @@
-# helloworld
-My first repository
-i love to code
-be active and learn everything .
+#include<iostream>
+using namespace std;
+int main()
+{
+    cout<<"hello world \n";
+    return 0;
+}
